@@ -11,7 +11,14 @@ A FastAPI application that extracts text from PDF files uploaded via API form da
 
 ## Installation
 
-1. Clone the repository or download the source code
+1. Clone the repository or download the source code and start the virtual env
+
+```bash
+python -m venv venv
+
+source venv/bin/activate
+```
+
 2. Install the required dependencies:
 
 ```bash
